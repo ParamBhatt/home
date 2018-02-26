@@ -1,0 +1,28 @@
+body
+{
+	background-image: url("dab.gif");
+	background-repeat:repeat;
+	background-size: 100%;
+	font-size: 15pt;
+	font-family: cursive;
+	color: white;
+	text-align : justify;
+}
+
+h1
+{
+	text-align : center;
+}
+
+a
+{
+	color: blue;
+}
+#Saffy
+{
+	margin: 5%;
+}
+#p
+{
+	text-align: left;
+}
